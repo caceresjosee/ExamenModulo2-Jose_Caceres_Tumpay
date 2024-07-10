@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|c:\\codigo.edu.pe\\bootcamp c#\\codigobytecsup.net-g2-main\\examenmodulo2\\1.srp\\after\\ejercicio1_after\\ejercicio1_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|solutionrelative:ejercicio1_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|c:\\codigo.edu.pe\\bootcamp c#\\codigobytecsup.net-g2-main\\examenmodulo2\\1.srp\\after\\ejercicio1_after\\ejercicio1_after\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|solutionrelative:ejercicio1_after\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|c:\\codigo.edu.pe\\bootcamp c#\\codigobytecsup.net-g2-main\\examenmodulo2\\1.srp\\after\\ejercicio1_after\\ejercicio1_after\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|solutionrelative:ejercicio1_after\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|c:\\codigo.edu.pe\\bootcamp c#\\codigobytecsup.net-g2-main\\examenmodulo2\\1.srp\\after\\ejercicio1_after\\ejercicio1_after\\bookingservicevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|solutionrelative:ejercicio1_after\\bookingservicevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|c:\\codigo.edu.pe\\bootcamp c#\\codigobytecsup.net-g2-main\\examenmodulo2\\1.srp\\after\\ejercicio1_after\\ejercicio1_after\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|solutionrelative:ejercicio1_after\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|c:\\codigo.edu.pe\\bootcamp c#\\codigobytecsup.net-g2-main\\examenmodulo2\\1.srp\\after\\ejercicio1_after\\ejercicio1_after\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12408C08-487E-4AAC-9D68-D8406F645721}|Ejercicio1_After\\Ejercicio1_After.csproj|solutionrelative:ejercicio1_after\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\Booking.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_After\\Booking.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\Booking.cs",
+              "RelativeToolTip": "Ejercicio1_After\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:46:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\BookingService.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_After\\BookingService.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\BookingService.cs",
+              "RelativeToolTip": "Ejercicio1_After\\BookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:27:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingServiceValidator.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\BookingServiceValidator.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_After\\BookingServiceValidator.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\BookingServiceValidator.cs",
+              "RelativeToolTip": "Ejercicio1_After\\BookingServiceValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:26:13.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_After\\ValidationResult.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\ValidationResult.cs",
+              "RelativeToolTip": "Ejercicio1_After\\ValidationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:25:45.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\Usuario.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_After\\Usuario.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\Usuario.cs",
+              "RelativeToolTip": "Ejercicio1_After\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:22:55.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_After\\Program.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\codigoByTecsup.NET-G2-main\\ExamenModulo2\\1.SRP\\After\\Ejercicio1_After\\Ejercicio1_After\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_After\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:10:29.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

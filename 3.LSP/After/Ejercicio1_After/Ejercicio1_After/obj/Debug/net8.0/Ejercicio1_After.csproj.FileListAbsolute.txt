@@ -1,0 +1,14 @@
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\bin\Debug\net8.0\Ejercicio1_After.exe
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\bin\Debug\net8.0\Ejercicio1_After.deps.json
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\bin\Debug\net8.0\Ejercicio1_After.runtimeconfig.json
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\bin\Debug\net8.0\Ejercicio1_After.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\bin\Debug\net8.0\Ejercicio1_After.pdb
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\Ejercicio1_After.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\Ejercicio1_After.AssemblyInfoInputs.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\Ejercicio1_After.AssemblyInfo.cs
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\Ejercicio1_After.csproj.CoreCompileInputs.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\Ejercicio1_After.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\refint\Ejercicio1_After.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\Ejercicio1_After.pdb
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\Ejercicio1_After.genruntimeconfig.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\codigoByTecsup.NET-G2-main\ExamenModulo2\3.LSP\After\Ejercicio1_After\Ejercicio1_After\obj\Debug\net8.0\ref\Ejercicio1_After.dll
